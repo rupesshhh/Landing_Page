@@ -1,4 +1,4 @@
-![Responsive-Landing-Page-Light-and-Dark-Mode-Animation]("\Landing Page\img\LightPage.png")
+![Responsive-Landing-Page-Light-and-Dark-Mode-Animation] ("\Landing Page\img\LightPage.png")
 
 # Responsive-Landing-Page-Light-and-Dark-Mode-Animation
 
