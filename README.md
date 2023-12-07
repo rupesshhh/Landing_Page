@@ -1,4 +1,4 @@
-![Responsive-Landing-Page-Light-and-Dark-Mode-Animation]("img/LightPage.png")
+![Responsive-Landing-Page-Light-and-Dark-Mode-Animation]("https://github.com/rupesshhh/Prodigy_WD_01/blob/main/img/LightPage.png")
 
 # Responsive-Landing-Page-Light-and-Dark-Mode-Animation
 
