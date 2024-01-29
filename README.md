@@ -5,5 +5,5 @@
 - Which we're going to take them toggle to the next mode by creating an awesome overlay animation around the theme switch.
 
 - Here is the demo of the website. 
-[![portfolio](https://github.com/rupesshhh)
+[![portfolio](https://github.com/rupesshhh)]
 
