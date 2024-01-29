@@ -5,5 +5,5 @@
 - Which we're going to take them toggle to the next mode by creating an awesome overlay animation around the theme switch.
 
 - Here is the demo of the website. 
-[![portfolio](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rupesshhh.github.io/Prodigy_WD_01/)
+[![portfolio](https://github.com/rupesshhh)
 
